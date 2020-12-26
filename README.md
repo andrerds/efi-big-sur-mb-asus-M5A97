@@ -1,21 +1,24 @@
-# Asus M5A97 AMD FX Hackintosh 
+# Asus M5A97 AMD FX Hackintosh
 
-## MacOS BigSur
-** Status Atual **: Não Estável  
-** Bootloader **: OpenCore 6.4   
+**MacOS BigSur**
+**Status Atual**: Não Estável
+**Bootloader**: OpenCore 6.4
 
 **Trabalhando**
+
 - Ethernet
 - Som (com VoodooHDA)
 - Wifi Atheros 9285
 
 **Não está funcionando**
+
 - Appstore, iTunes e Safari têm problema de congelamento de morte
 - Despertar
 - Controle do ventilador
 - USB 3.0
 
 **Atenção OPENCORE brikando BIOS**
+
 - Tome cuidado / Warning
 - Em caso em que sua BIOS for corrompido, terá varios problemas e o mais grave e travar sem conseguir
     Inicializar com PENDRIVE ou HD/SSD plugado na placa mãe.
@@ -36,4 +39,4 @@
 **CPU**: AMD FX-6300  
 **GPU**: GerForce GT 710
 **SSD**: WD 120 GREEN  
-**RAM**: 24 GB 
+**RAM**: 24 GB

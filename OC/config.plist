@@ -1636,7 +1636,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02038108GULNV98C</string>
+			<string>TO-BE-CHANGED</string>
 			<key>ROM</key>
 			<data>YKRMYL/6</data>
 			<key>SpoofVendor</key>
@@ -1644,9 +1644,9 @@
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02DF04SJV3Q</string>
+			<string>TO-BE-CHANGED</string>
 			<key>SystemUUID</key>
-			<string>076CF8C4-C38D-4EB1-9828-A8B1DDC99320</string>
+			<string>TO-BE-CHANGED</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
